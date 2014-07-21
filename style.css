@@ -1,0 +1,38 @@
+/*
+Theme Name: r3cognition
+Description: WP THEME VERSION 2.0
+Author: ADAM DAVID @adm_db
+.
+*/
+
+@import url("css/bootstrap.min.css");
+@import url("css/main.css");
+
+body {
+  	padding-top: 100px;
+}
+
+@media (max-width: 767px) {
+	body {
+	padding-top: 0px;
+	}
+}
+
+/* Highlighting text style */
+
+::selection {
+	background: #526ba4; 
+	color: #fff;
+}
+
+::-moz-selection {
+	background: #526ba4; 
+	color: #fff;
+}
+
+/* Loading webfonts asynchronously 
+
+.wf-loading * { 
+	visibility: hidden; 
+}
+*/

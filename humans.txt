@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# DEVELOPER
+
+    Adam Brown @adm_db
+
+# VERSION
+    
+    R3COGNITION 1.0
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
+    Based off Boilerplate
